@@ -1,0 +1,23 @@
+{
+  "name": "First-TypeScript",
+  "version": "1.0.0",
+  "description": "This is a practice file for first getting used to TypeScript. The final plan is to combine TypeScript with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencerlazzar/First-TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spencerlazzar/First-TypeScript/issues"
+  },
+  "homepage": "https://github.com/spencerlazzar/First-TypeScript#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
